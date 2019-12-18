@@ -1,0 +1,24 @@
+{
+  "name": "LeadManagementApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyeza/LeadsManagementApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyeza/LeadsManagementApp/issues"
+  },
+  "homepage": "https://github.com/Kyeza/LeadsManagementApp#readme",
+  "devDependencies": {
+    "webpack": "^4.41.3",
+    "webpack-cli": "^3.3.10"
+  }
+}
